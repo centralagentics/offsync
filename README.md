@@ -1,2 +1,2 @@
 # offsync
-OffSync - Security-first calendar platform
+OffSync - Security-first calendar platform 
